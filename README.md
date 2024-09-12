@@ -7,7 +7,7 @@ Este texto aborda os impactos das queimadas que ocorreram no Brasil em agosto de
 Foram utilizdas as inteligências artificiais do ChatGPT, para geração do texto, e Editpad para deixar o texto mais "humano".
 
 ## 🧐 Processo de Criação
-Para a criação deste contúdo, tive como base os noticiários recentes sobre as queimadas que aconteceram no Brasil e como isso tornou o nosso país, e a cidade de São Paulo, líder no ranking mundial de pior ar.
+Para a criação deste conteúdo, tive como base os noticiários recentes sobre as queimadas que aconteceram no Brasil e como isso tornou o nosso país, e a cidade de São Paulo, líder no ranking mundial de pior ar.
 
 ## 🚀 Resultados
 Confira o texto no seguinte link: 
